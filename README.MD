@@ -20,11 +20,12 @@ asdf install golang x.xx.xx
 - `brew install direnv`
 - add hook into the shell.
 
+
 finally, (see .envrc.sample)
 
 | name | description | sample |
 | --- | --- | --- |
-| GOPATH | go main root path | `(project-root)/go`
+| GOPATH | go workspace location | `(project-root)/go`
 
 ### check your Installation
 

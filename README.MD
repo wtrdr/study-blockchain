@@ -35,3 +35,10 @@ go build
 ./hello
 # hello, world
 ```
+
+### dep
+
+[dep](https://github.com/golang/dep)
+
+`brew install dep`
+

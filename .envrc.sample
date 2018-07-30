@@ -1,2 +1,2 @@
-export GOPATH=$(pwd)/go:$GOPATH
+export GOPATH=$HOME/.ghq
 export PATH=$PATH:$(go env GOPATH)/bin

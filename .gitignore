@@ -40,11 +40,5 @@ tags
 
 # End of https://www.gitignore.io/api/go,vim
 
-### Go (custom) ###
-go/bin/
-
-
-
 # for this project
 .envrc
-
